@@ -19,9 +19,10 @@ poetry run get-papers-list "cancer immunotherapy" --file results.csv --debug
 
 ## 🤖 LLM Assistance
 This project was built using ChatGPT (GPT-4) to help with:
-- Designing the code structure
+- Structuring the codebase
 - Writing heuristics for detecting pharma/biotech affiliations
 - Optimizing and debugging
+- This greatly accelerated development and ensured quality and correctness.
 
 ## 🧪 Sample Run
 ```bash
